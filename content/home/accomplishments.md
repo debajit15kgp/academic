@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Courses"
 subtitle = ""
 
 # Date format
@@ -29,9 +29,9 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "edX"
+  organization = "Udemy"
   organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
+  title = "A-Z of Machine Learning"
   url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
   certificate_url = "https://www.edx.org"
   date_start = "2018-03-01"
@@ -39,13 +39,33 @@ date_format = "Jan 2006"
   description = "Formulated informed blockchain models, hypotheses, and use cases."
   
 [[item]]
-  organization = "DataCamp"
+  organization = "Coursera"
   organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  title = "Algorithms Specialization"
   url = ""
   certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  date_start = "2018-07-01"
+  date_end = "2018-12-21"
+  description = ""
+
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.datacamp.com"
+  title = "Machine Learning"
+  url = ""
+  certificate_url = "https://www.datacamp.com"
+  date_start = "2018-07-01"
+  date_end = "2018-12-21"
+  description = ""
+
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.datacamp.com"
+  title = "Computer Vision and Deep Learning"
+  url = ""
+  certificate_url = "https://www.datacamp.com"
+  date_start = "2018-07-01"
+  date_end = "2018-12-21"
   description = ""
 
 +++

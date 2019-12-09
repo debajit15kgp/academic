@@ -15,21 +15,38 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "cuttlefish"
   icon_pack = "fab"
-  name = "R"
+  name = "C/C++"
   description = "90%"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
+  icon = "python"
+  icon_pack = "fab"
+  name = "python"
   description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "product-hunt"
+  icon_pack = "fab"
+  name = "pytorch"
+  description = "50%"
 
+[[feature]]
+  icon = "tenge"
+  icon_pack = "fas"
+  name = "tensorflow"
+  description = "80%"
+
+[[feature]]
+  icon = "korvue"
+  icon_pack = "fab"
+  name = "Deep-learnig libraries- keras"
+  description = "80%"
+
+[[feature]]
+  icon = "puzzle-piece"
+  icon_pack = "fas"
+  name = "tsfresh, pygame, scikit-learn, numpy, tkinter"
+  description = "70%"
 +++
